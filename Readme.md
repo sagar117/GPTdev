@@ -34,15 +34,15 @@ Besides `prompt.html`, the repo contains:
 - Other HTML/JS – Prototypes and feature experiments.
 ---
 ## ■ Project Structure
--index.html # Current landing page (e-commerce demo)
--prompt.html # AI + Git feature creation form
--chat.js / chat2.js # GPT chat UIs
--project_reader.js # Reads and processes project data
--documents.html # Document viewer prototype
--ball.html / snake.html # Mini-game demos
--mongo_login.db # ■ Local DB artifact (should be ignored in .gitignore)
--node_modules/ # Dependencies (should not be committed)
--css/ js/ assets/ # Styles and scripts
+ index.html # Current landing page (e-commerce demo)
+ prompt.html # AI + Git feature creation form
+ chat.js / chat2.js # GPT chat UIs
+ project_reader.js # Reads and processes project data
+ documents.html # Document viewer prototype
+ ball.html / snake.html # Mini-game demos
+ mongo_login.db # ■ Local DB artifact (should be ignored in .gitignore)
+ node_modules/ # Dependencies (should not be committed)
+ css/ js/ assets/ # Styles and scripts
 ---
 ## ■ Installation & Setup
 **Note:** The current repo is front-end only. Git operations and AI calls require a backend service.
